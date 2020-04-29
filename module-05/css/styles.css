@@ -91,8 +91,6 @@ a {
     margin-bottom: 30px;
 }
 
-/*Slider*/
-
 .slider-container {
     position: relative;
 }
@@ -165,13 +163,13 @@ a {
 }
 
 .bt-left {
-    background-image: url(/img/left.png);
+    background-image: url(../img/left.png);
     margin-right: 770px;
     background-repeat: no-repeat;
 }
 
 .bt-right {
-    background-image: url(/img/right.png);
+    background-image: url(../img/right.png);
     background-repeat: no-repeat;
 
 }
